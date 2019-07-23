@@ -1,6 +1,6 @@
 # AI for solving the 9-puzzle game
 
-This work is the result of a project developed for a Artificial Intelligence class conducted at Universidade Federal de Minas Gerais. The objective is to use classical algarithms for solving the 9-Puzzle game.
+This work is the result of a project developed for a Artificial Intelligence class conducted at Universidade Federal de Minas Gerais. The objective is to use classical algorithms for solving the 9-Puzzle game.
 
 ## Running the program:
 
